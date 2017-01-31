@@ -10,6 +10,12 @@ This program works with Python 3 and PyQt5.
 sudo pip install bochica
 ```
 
+# usage
+
+```Bash
+bochica.py
+```
+
 # screenshots
 
 |**encrypt**             |**decrypt**             |
