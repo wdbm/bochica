@@ -67,7 +67,7 @@ import shijian
 import technicolor
 
 name        = "bochica"
-__version__ = "2018-06-25T2115Z"
+__version__ = "2018-08-20T1114Z"
 
 log = logging.getLogger(name)
 log.addHandler(technicolor.ColorisingStreamHandler())
@@ -239,4 +239,4 @@ class Interface(QWidget):
         sys.exit(0)
 
 if __name__ == "__main__":
-  main()
+    main()

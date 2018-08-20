@@ -7,7 +7,7 @@ import setuptools
 def main():
     setuptools.setup(
         name                 = "bochica",
-        version              = "2018.06.25.2115",
+        version              = "2018.08.20.1114",
         description          = "GNU Privacy Guard encryption-decryption graphical user interface",
         long_description     = long_description(),
         url                  = "https://github.com/wdbm/bochica",
