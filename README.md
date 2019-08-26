@@ -14,7 +14,7 @@ sudo pip install bochica
 # usage
 
 ```Bash
-bochica.py
+bochica
 ```
 
 # screenshots
